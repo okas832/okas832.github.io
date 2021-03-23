@@ -39,21 +39,25 @@ last_modified_at: 2021-03-22T20:24:41+09:00
 ## CTF
 ### 2021
 - **zer0pts CTF 2021** 2nd Place as *K-Students*
+
 ### 2020
 - Organized **Cyber Operation Contest 2020**
 - Organized **CODEGATE CTF 2020**
 - **TokyoWesterns CTF 6th 2020** 1st Place as *D0G$*
 - **SECCON 2020 OnlineCTF** 1st Place as *HangulSarang*
 - **Midnight Sun CTF 2020** Finalist as *GoN x zer0pts*
+
 ### 2019
 - Organized **Cyber Operation Contest 2019**
 - **DEFCON 27 CTF** Finalist as *KaisHack GoN*
 - **CODEGATE CTF 2019** University Division 3rd Place as *KAIST GoN*
+
 ### 2018
 - **DEFCON 26 CTF** Finalist as *KaisHack PLUS GoN*
 - **PlaidCTF 2018** 4th Place as *KaisHack+PLUS+GoN*
 - Organized **Samsung CTF 2018**
 - **CODEGATE CTF 2018** University Division 1st Place as *KAIST GoN*
+
 ### 2017
 - **SECCON CTF 2016** Finalist as *KAIST GoN*
 
