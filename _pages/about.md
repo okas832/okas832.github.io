@@ -26,6 +26,8 @@ last_modified_at: 2021-03-22T20:24:41+09:00
   - 2016.03 ~ Present
   - was leader of KAIST GoN
     - 2018.03 ~ 2019.02
+- Member of [**Super Guesser**](https://guesser.team/)
+  - 2021.07 ~ Present
 - KITRI BoB 5th - 취약점분석 트랙
   - 2016.07 ~ 2016.12
 - Student Senior, KAIST Computer Emergency Response Team (CERT)
