@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Minyeop Choi."
-last_modified_at: 2021-03-22T20:24:41+09:00
+last_modified_at: 2022-04-05T17:00:00+09:00
 ---
 
 ## Interests
@@ -39,6 +39,13 @@ last_modified_at: 2021-03-22T20:24:41+09:00
   - ACM CHI 2021 **Honorable Mention Award (top 5%)**
 
 ## CTF
+Only wrote noteworthy CTFs which I contributed to solve some challenges.
+### 2022
+- **LINE CTF 2022** 2nd Place as *Super HexaGoN*
+- **1337UP LIVE CTF** 2nd Place as *Old GoatskiN*
+- **Hayyim CTF 2022** 2nd Place as *하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ*
+  - 1st place on eligible for prize
+
 ### 2021
 - **zer0pts CTF 2021** 2nd Place as *K-Students*
 
@@ -66,3 +73,10 @@ last_modified_at: 2021-03-22T20:24:41+09:00
 ## Contributions
 - ICSE 2020
   - Committee Member in Live! Team Korea within the Virtualization-track
+
+## etc
+- Translated [Destiny Timeline](https://destinytimeline.com) into Korean 
+  - <https://drive.google.com/file/d/1N1waybRwkPMt49i8sYDEQZy5hVLmSAuX/view>
+  - Preparing to resume/take-over destiny timeline project
+- Interested on game story, game level design.
+  - But not too deep. Kind of hobby.
