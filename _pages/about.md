@@ -42,7 +42,7 @@ last_modified_at: 2022-11-21T18:00:00+09:00
 Only wrote noteworthy CTFs which I contributed to solve some challenges.
 ### 2022
 - Organized **WACON 2022**
-- **BLACKHAT MEA CTF 2022 Final** 2nd Place as *{{7\*7}}*
+- **BLACKHAT MEA CTF 2022 Final** 2nd Place as *\{\{7\*7\}\}*
 - **CODEGATE CTF 2022** General Division 3rd Place as *본선 온라인 기원*
 - **LINE CTF 2022** 2nd Place as *Super HexaGoN*
 - **1337UP LIVE CTF** 2nd Place as *Old GoatskiN*
