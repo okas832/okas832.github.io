@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Minyeop Choi."
-last_modified_at: 2022-11-21T18:00:00+09:00
+last_modified_at: 2023-06-05T18:00:00+09:00
 ---
 
 ## Interests
@@ -10,11 +10,17 @@ last_modified_at: 2022-11-21T18:00:00+09:00
 - Computer Architecture
 - Anti-Cheats
 
+## Work Experiences
+- [S2W](https://s2w.inc)
+  - Threat Analysis Team (BLKSMTH)
+  - Senior Researcher
+  - 2023.04 ~ Present
+
 ## Education
 - Korea Advanced Institute of Science and Technology (KAIST)
   - M.S. Graduate School of Information Security
   - As a member of [SoftSec Lab](https://softsec.kaist.ac.kr/)
-  - 2021.03 ~ Present
+  - 2021.03 ~ 2023.02
 - Korea Advanced Institute of Science and Technology (KAIST)
   - B.S. Advanced major on Computer Science
   - 2016.03 ~ 2020.08
@@ -40,6 +46,9 @@ last_modified_at: 2022-11-21T18:00:00+09:00
 
 ## CTF
 Only wrote noteworthy CTFs which I contributed to solve some challenges.
+### 2023
+- **SECCON CTF 2022 International Finals** 5th Place as *Super Guesser*
+
 ### 2022
 - Organized **WACON 2022**
 - **BLACKHAT MEA CTF 2022 Final** 2nd Place as *\{\{7\*7\}\}*
