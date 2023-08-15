@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Minyeop Choi."
-last_modified_at: 2023-06-05T18:00:00+09:00
+last_modified_at: 2023-08-15T00:00:00+09:00
 ---
 
 ## Interests
@@ -40,6 +40,9 @@ last_modified_at: 2023-06-05T18:00:00+09:00
   - 2017.07 ~ 2020.01
 
 ## Publication
+1. BotScreen: Trust Everybody, but Cut the Aimbots Yourself
+  - **Minyeop Choi**, Gihyuk Ko, and Sang Kil Cha
+  - USENIX Security '23 **Distinguished Paper Award**
 1. Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters
   - Eunji Park, Sangyoon Lee, Auejin Ham, **Minyeop Choi**, Sunjun Kim, and Byungjoo Lee
   - ACM CHI 2021 **Honorable Mention Award (top 5%)**
