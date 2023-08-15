@@ -40,7 +40,7 @@ last_modified_at: 2023-08-15T00:00:00+09:00
   - 2017.07 ~ 2020.01
 
 ## Publication
-1. BotScreen: Trust Everybody, but Cut the Aimbots Yourself [(link)](https://softsec.kaist.ac.kr/~sangkilc/papers/choi-usenix23.pdf)
+1. BotScreen: Trust Everybody, but Cut the Aimbots Yourself [(link)](https://www.usenix.org/conference/usenixsecurity23/presentation/choi)
   - **Minyeop Choi**, Gihyuk Ko, and Sang Kil Cha
   - USENIX Security '23 **Distinguished Paper Award**
 1. Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters [(link)](https://dl.acm.org/doi/abs/10.1145/3411764.3445217)
