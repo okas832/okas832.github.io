@@ -21,6 +21,8 @@ last_modified_at: 2023-08-15T00:00:00+09:00
   - M.S. Graduate School of Information Security
   - As a member of [SoftSec Lab](https://softsec.kaist.ac.kr/)
   - 2021.03 ~ 2023.02
+  - was student leader of SoftSec Lab
+    - 2021.03 ~ 2023.02
 - Korea Advanced Institute of Science and Technology (KAIST)
   - B.S. Advanced major on Computer Science
   - 2016.03 ~ 2020.08
@@ -43,6 +45,7 @@ last_modified_at: 2023-08-15T00:00:00+09:00
 1. BotScreen: Trust Everybody, but Cut the Aimbots Yourself [(link)](https://www.usenix.org/conference/usenixsecurity23/presentation/choi)
   - **Minyeop Choi**, Gihyuk Ko, and Sang Kil Cha
   - USENIX Security '23 **Distinguished Paper Award**
+    - 16 papers were awarded out of 422 accepted papers
 1. Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters [(link)](https://dl.acm.org/doi/abs/10.1145/3411764.3445217)
   - Eunji Park, Sangyoon Lee, Auejin Ham, **Minyeop Choi**, Sunjun Kim, and Byungjoo Lee
   - ACM CHI 2021 **Honorable Mention Award (top 5%)**
@@ -50,6 +53,7 @@ last_modified_at: 2023-08-15T00:00:00+09:00
 ## CTF
 Only wrote noteworthy CTFs which I contributed to solve some challenges.
 ### 2023
+- Organized **WACON 2023**
 - **SECCON CTF 2022 International Finals** 5th Place as *Super Guesser*
 
 ### 2022
@@ -92,6 +96,6 @@ Only wrote noteworthy CTFs which I contributed to solve some challenges.
 ## etc
 - Translated [Destiny Timeline](https://destinytimeline.com) into Korean 
   - <https://drive.google.com/file/d/1N1waybRwkPMt49i8sYDEQZy5hVLmSAuX/view>
-  - Preparing to resume/take-over destiny timeline project
+  - Project stopped, original creator stop their project
 - Interested on game story, game level design.
-  - But not too deep. Kind of hobby.
+  - Hope I can be a part of famous RPG game.
