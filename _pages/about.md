@@ -45,7 +45,6 @@ last_modified_at: 2023-08-15T00:00:00+09:00
 1. BotScreen: Trust Everybody, but Cut the Aimbots Yourself [(link)](https://www.usenix.org/conference/usenixsecurity23/presentation/choi)
   - **Minyeop Choi**, Gihyuk Ko, and Sang Kil Cha
   - USENIX Security '23 **Distinguished Paper Award**
-    - 16 papers were awarded out of 422 accepted papers
 1. Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters [(link)](https://dl.acm.org/doi/abs/10.1145/3411764.3445217)
   - Eunji Park, Sangyoon Lee, Auejin Ham, **Minyeop Choi**, Sunjun Kim, and Byungjoo Lee
   - ACM CHI 2021 **Honorable Mention Award (top 5%)**
