@@ -15,6 +15,9 @@ last_modified_at: 2023-08-15T00:00:00+09:00
   - Threat Analysis Team (BLKSMTH)
   - Senior Researcher
   - 2023.04 ~ Present
+  - Threat Intelligence, Focusing on Malware Analysis
+    - [Detailed Analysis of DarkGate; Investigating new top-trend backdoor malware](https://medium.com/s2wblog/detailed-analysis-of-darkgate-investigating-new-top-trend-backdoor-malware-0545ecf5f606)
+    - [RustDoor and GateDoor: A New Pair of Weapons Disguised as Legitimate Software by Suspected Cybercriminal](https://medium.com/s2wblog/rustdoor-and-gatedoor-a-new-pair-of-weapons-disguised-as-legitimate-software-by-suspected-34c94e558b40)
 
 ## Education
 - Korea Advanced Institute of Science and Technology (KAIST)
@@ -47,7 +50,7 @@ last_modified_at: 2023-08-15T00:00:00+09:00
   - USENIX Security '23 **Distinguished Paper Award**
 1. Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters [(link)](https://dl.acm.org/doi/abs/10.1145/3411764.3445217)
   - Eunji Park, Sangyoon Lee, Auejin Ham, **Minyeop Choi**, Sunjun Kim, and Byungjoo Lee
-  - ACM CHI 2021 **Honorable Mention Award (top 5%)**
+  - ACM CHI 2021 **Honorable Mention Award**
 
 ## CTF
 Only wrote noteworthy CTFs which I contributed to solve some challenges.
@@ -96,5 +99,7 @@ Only wrote noteworthy CTFs which I contributed to solve some challenges.
 - Translated [Destiny Timeline](https://destinytimeline.com) into Korean 
   - <https://drive.google.com/file/d/1N1waybRwkPMt49i8sYDEQZy5hVLmSAuX/view>
   - Project stopped, original creator stop their project
+- Operating private game clan "백병원"
+  - Joined 2018.10
+  - Currently clan leader since 2020.06
 - Interested on game story, game level design.
-  - Hope I can be a part of famous RPG game.
