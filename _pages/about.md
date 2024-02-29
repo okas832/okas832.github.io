@@ -48,7 +48,7 @@ last_modified_at: 2024-02-29T00:00:00+09:00
 1. BotScreen: Trust Everybody, but Cut the Aimbots Yourself [(link)](https://www.usenix.org/conference/usenixsecurity23/presentation/choi)
   - **Minyeop Choi**, Gihyuk Ko, and Sang Kil Cha
   - USENIX Security '23 **Distinguished Paper Award**
-  - Posted in a [KAIST breakthroughs Spring 2024 Vol. 22](https://breakthroughs.kaist.ac.kr/sub02/view/id/499)
+  - Posted in a [KAIST Breakthroughs Spring 2024 Vol. 22](https://breakthroughs.kaist.ac.kr/sub02/view/id/499)
 1. Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters [(link)](https://dl.acm.org/doi/abs/10.1145/3411764.3445217)
   - Eunji Park, Sangyoon Lee, Auejin Ham, **Minyeop Choi**, Sunjun Kim, and Byungjoo Lee
   - ACM CHI 2021 **Honorable Mention Award**
