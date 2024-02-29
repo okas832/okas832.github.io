@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Minyeop Choi."
-last_modified_at: 2023-08-15T00:00:00+09:00
+last_modified_at: 2024-02-29T00:00:00+09:00
 ---
 
 ## Interests
