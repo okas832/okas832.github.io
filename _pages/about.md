@@ -57,6 +57,8 @@ last_modified_at: 2024-04-29T00:00:00+09:00
 Only wrote noteworthy CTFs which I contributed to solve some challenges.
 
 ### Participated
+- **DEFCON 32 CTF**
+  - Finalist, *Hypeboy*
 - **Plaid CTF 2024**
   - 1st, *Hypeboy*
 - **SECCON CTF 2023 International Finals**
