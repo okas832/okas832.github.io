@@ -54,43 +54,43 @@ last_modified_at: 2024-04-29T00:00:00+09:00
   - ACM CHI 2021 **Honorable Mention Award**
 
 ## Capture The Flag
-Only wrote noteworthy CTFs which I contributed to solve some challenges.
+Only wrote noteworthy CTFs which I contributed to.
 
 ### Participated
 - **DEFCON 32 CTF**
   - Finalist, *Hypeboy*
+- **DEFCON 27 CTF**
+  - Finalist, *KaisHack GoN*
+- **DEFCON 26 CTF**
+  - Finalist, *KaisHack PLUS GoN*
 - **Plaid CTF 2024**
   - 1st, *Hypeboy*
+- **Plaid CTF 2018**
+  - 4th, *KaisHack+PLUS+GoN*
 - **SECCON CTF 2023 International Finals**
   - 5th, *Super Guesser*
 - **SECCON CTF 2022 International Finals**
   - 5th, *Super Guesser*
-- **LINE CTF 2022**
-  - 2nd, *Super HexaGoN*
-- **BLACKHAT MEA CTF 2022 Final**
-  - 2nd, *\{\{7\*7\}\}*
+- **SECCON 2020 OnlineCTF**
+  - 1st, *HangulSarang*
+- **SECCON CTF 2016**
+  - Finalist, *KAIST GoN*
 - **CODEGATE CTF 2022** General Division
   - 3rd, *본선 온라인 기원*
+- **CODEGATE CTF 2019** University Division
+  - 3rd, *KAIST GoN*
+- **CODEGATE CTF 2018** University Division
+  - 1st, *KAIST GoN*
 - **zer0pts CTF 2021**
   - 2nd, *K-Students*
 - **TokyoWesterns CTF 6th 2020**
   - 1st, *D0G$*
-- **SECCON 2020 OnlineCTF**
-  - 1st, *HangulSarang*
+- **LINE CTF 2022**
+  - 2nd, *Super HexaGoN*
+- **BLACKHAT MEA CTF 2022 Final**
+  - 2nd, *\{\{7\*7\}\}*
 - **Midnight Sun CTF 2020**
   - Finalist, *GoN x zer0pts*
-- **DEFCON 27 CTF**
-  - Finalist, *KaisHack GoN*
-- **CODEGATE CTF 2019** University Division
-  - 3rd, *KAIST GoN*
-- **DEFCON 26 CTF**
-  - Finalist, *KaisHack PLUS GoN*
-- **PlaidCTF 2018**
-  - 4th, *KaisHack+PLUS+GoN*
-- **CODEGATE CTF 2018** University Division
-  - 1st, *KAIST GoN*
-- **SECCON CTF 2016**
-  - Finalist, *KAIST GoN*
 
 ### Organized
 - **WACON 2023**
@@ -108,6 +108,3 @@ Only wrote noteworthy CTFs which I contributed to solve some challenges.
 - Operating private game clan "백병원"
   - Joined 2018.10
   - Currently clan leader since 2020.06
-- Translated [Destiny Timeline](https://destinytimeline.com) into Korean 
-  - <https://drive.google.com/file/d/1N1waybRwkPMt49i8sYDEQZy5hVLmSAuX/view>
-  - Project stopped, original creator stop their project
