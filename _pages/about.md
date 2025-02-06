@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Minyeop Choi."
-last_modified_at: 2024-04-29T00:00:00+09:00
+last_modified_at: 2025-02-06T00:00:00+09:00
 ---
 
 ## Interests
@@ -87,6 +87,8 @@ Only wrote noteworthy CTFs which I contributed to.
   - 1st, *D0G$*
 - **LINE CTF 2022**
   - 2nd, *Super HexaGoN*
+- **BLACKHAT MEA CTF 2024 Final**
+  - 4nd, *Guper Suesser*
 - **BLACKHAT MEA CTF 2022 Final**
   - 2nd, *\{\{7\*7\}\}*
 - **Midnight Sun CTF 2020**
