@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Minyeop Choi."
-last_modified_at: 2025-02-06T00:00:00+09:00
+last_modified_at: 2025-03-05T00:00:00+09:00
 ---
 
 ## Interests
@@ -67,6 +67,8 @@ Only wrote noteworthy CTFs which I contributed to.
   - 1st, *Hypeboy*
 - **Plaid CTF 2018**
   - 4th, *KaisHack+PLUS+GoN*
+- **SECCON CTF 13 International Finals**
+  - 2nd, *Super Guesser*
 - **SECCON CTF 2023 International Finals**
   - 5th, *Super Guesser*
 - **SECCON CTF 2022 International Finals**
