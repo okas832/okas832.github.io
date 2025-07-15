@@ -13,7 +13,7 @@ last_modified_at: 2025-03-05T00:00:00+09:00
 ## Work Experiences
 - [S2W](https://s2w.inc)
   - Threat Analysis Team (BLKSMTH)
-  - Senior Researcher
+  - Professional
   - 2023.04 ~ Present
   - Threat Intelligence, Focusing on Malware Analysis
     - [Detailed Analysis of DarkGate; Investigating new top-trend backdoor malware](https://medium.com/s2wblog/detailed-analysis-of-darkgate-investigating-new-top-trend-backdoor-malware-0545ecf5f606)
