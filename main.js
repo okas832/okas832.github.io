@@ -16,7 +16,7 @@ createApp({
           companyUrl: "https://s2w.inc",
           team: "Threat Analysis Team (BLKSMTH)",
           level: "Professional",
-          period: "2023.04 ~ Present",
+          period: "2023.04 ~ 2026.07",
           focus: "Threat Intelligence, focusing on malware analysis",
           highlights: [
             {
